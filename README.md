@@ -1,4 +1,4 @@
-# OnlineJudge 2.0
+# OnlineJudge 2.0 CIDP
 
 [![Python](https://img.shields.io/badge/python-3.6.2-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-362/)
 [![Django](https://img.shields.io/badge/django-1.11.4-blue.svg?style=flat-square)](https://www.djangoproject.com/)
